@@ -14,7 +14,7 @@ body{
 
 #content{
     display: flex;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgb(0, 0, 0);
     height: 550px;
     width: 1350px;
     margin: auto;   
