@@ -14,7 +14,7 @@ body{
 
 #content{
     display: flex;
-    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0,0.3);
     height: 550px;
     width: 1350px;
     margin: auto;   
@@ -41,3 +41,4 @@ img{
     margin: auto;
     justify-content: space-around;
 }
+
